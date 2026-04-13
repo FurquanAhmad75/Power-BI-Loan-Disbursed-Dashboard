@@ -3,7 +3,7 @@ The Loan Disbursed Dashboard provides a comprehensive analysis of loan distribut
 
 # 🚀 Key Features
 # 💰 Financial KPIs
-Total Loan Amount: 1B
+Total Loan Amount: 1B <br>
 Total Disbursed Amount: 1B
 Total Interest Rate (Aggregated): 9.40K
 Total Loan Count: 1K
